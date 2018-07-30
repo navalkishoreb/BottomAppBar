@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".Home">
+
+	<android.support.design.bottomappbar.BottomAppBar
+		android:id="@+id/home_menu_hamburger"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="bottom"
+		app:elevation="8dp"
+		app:backgroundTint="@color/home_bottom_app_bar"
+		app:fabAlignmentMode="center"
+		app:navigationIcon="@drawable/ic_menu_hamburger" />
+
+	<android.support.design.widget.FloatingActionButton
+		android:id="@+id/home_button_floating_action"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:src="@drawable/ic_add"
+		android:tint="@color/icon_tint"
+		app:elevation="12dp"
+		app:backgroundTint="@color/home_button_floating_action"
+		app:layout_anchor="@id/home_menu_hamburger" />
+</android.support.design.widget.CoordinatorLayout>

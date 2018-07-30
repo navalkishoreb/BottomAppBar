@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#FFFFFF</color>
+	<color name="colorPrimaryDark">#F4F4F4</color>
+	<color name="colorAccent">#5725E5</color>
+	<color name="windowBackground">#FFFFFF</color>
+
+
+	<color name="home_bottom_app_bar">#5725E5</color>
+	<color name="home_button_floating_action">#000000</color>
+	<color name="icon_tint">#FFFFFF</color>
+</resources>

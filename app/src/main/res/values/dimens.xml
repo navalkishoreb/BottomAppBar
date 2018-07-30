@@ -1,0 +1,8 @@
+<resources>
+	<dimen name="fab_margin">16dp</dimen>
+	<!--<dimen name="mtrl_bottomappbar_fabOffsetEndMode">60dp</dimen>-->
+	<!--<dimen name="mtrl_bottomappbar_fab_cradle_margin">5dp</dimen>-->
+	<!--<dimen name="mtrl_bottomappbar_fab_cradle_rounded_corner_radius">8dp</dimen>-->
+	<!--<dimen name="mtrl_bottomappbar_fab_cradle_vertical_offset">0dp</dimen>-->
+	<!--<dimen name="mtrl_bottomappbar_height">56dp</dimen>-->
+</resources>
